@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "256c7d2687084bd376269414eb3d9ba3--undertale-game-undertale-comic.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
